@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-Rastogi
 - 👀 I’m interested in Automation (Mobile Apps and Web based)
-- 🌱 I’m currently learning Java, Python and Shell scripting
+- 🌱 Proficient in Java, Python and Shell scripting
 - 💞️ I’m looking to collaborate on exloring automation aspects of all the domains including ML and RPA.
 
 <!---
